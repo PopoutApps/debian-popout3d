@@ -1,10 +1,10 @@
-popout3d (1.5.1) groovy; urgency=low
+popout3d (1.5.1) buster; urgency=low
 
   * Initial release. (Closes: #783072)
 
  -- Chris Rogers <popout.apps@yahoo.com>  Mon, 11 Jan 2021 13:09:00 +0000
  
-popout3d (1.5.0) groovy; urgency=low
+popout3d (1.5.0) buster; urgency=low
 
   * Initial release. (Closes: #783072)
 
