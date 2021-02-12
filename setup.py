@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="popout3d",
-    version="1.5.0",
+    version="1.5.2",
     packages=find_packages(),                     
     scripts=['popout3d'],
     
@@ -9,7 +9,7 @@ setup(
     python_requires='>=3',
     #platform='OPTIONS UNKNOWN',
     #package_data={'': ['*.png']},               #ONLY TEXT OR RST OR MSG
-    data_files=[('share/popout3d/', ['popout3d_logo.png','popout3d.glade']), ('share/man/man1', ['popout3d.1']), ('share/applications/', ['popout3d.desktop'])],
+    data_files=[('share/popout3d/', ['popout3d.png','popout3d.glade']), ('share/man/man1', ['popout3d.1']), ('share/applications/', ['popout3d.desktop'])],
 
     include_package_data=True,
     
